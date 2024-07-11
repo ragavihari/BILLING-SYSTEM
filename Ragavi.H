@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-class Item {
+    class Item {
     private String name;
     private double price;
     private int quantity;
